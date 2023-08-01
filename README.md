@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/673290405.svg)](https://zenodo.org/badge/latestdoi/673290405)
+
 # Pombe_Recombination
 Scripts for the Pombe paper
 
